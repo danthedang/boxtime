@@ -1,0 +1,17 @@
+.lights-on {
+  background-color: #DDEBF3;
+  color: #183F55;
+}
+
+.lights-off {
+  background-color: #001933;
+  color: white;
+}
+
+.box {
+  border: solid 2px;
+  background-color: #fde1ff;
+  color: #183F55;
+  padding: 5px;
+  margin: 5px;
+}
